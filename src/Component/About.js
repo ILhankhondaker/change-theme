@@ -25,10 +25,12 @@ const About = () => {
                     </p>
                     <div class="divider"></div>
                     <div className="">
-                        <p>Name : Ilhan Khondaker </p>
-                        <p>Email : ilhankhondaker@gmail.com</p>
+                        <p class="tooltip" data-tip="Click & visit portfolio "><a href="https://ilhan-khondaker.netlify.app/" target="_blank" rel="noopener noreferrer">Name : Ilhan Khondaker</a></p>
+                        <p><a href="mailto:ilhankhondaker@gmail.com">Email : ilhankhondaker@gmail.com</a></p>
                         <a href="tel:+8801680576091">Phone: +8801680576091</a>
-                        <p >Address: Banani Dahak</p>
+                        <p  >Address: Banani Dahak</p>
+
+
                     </div>
                     <div class="flex gap-4 mt-5 ">
                         <a target="blank" href="https://twitter.com/IlhanKhondaker">

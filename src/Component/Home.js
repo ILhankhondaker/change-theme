@@ -27,10 +27,7 @@ const Home = () => {
                             <h1 ><a href="https://daisyui.com/docs/install/" target="_blank" rel="noopener noreferrer"> Daisy UI Install Docs </a> </h1>
                             <h1 className='text-1xl font-bold mt-3'>⇒ React Router </h1>
                             <h1 > <a href="https://reactrouter.com/en/v6.3.0/getting-started/installation" target="_blank" rel="noopener noreferrer">React Router Install Docs </a> </h1> <br />
-                            <p>We use Tailwind & Tailwind Component DaisyUI </p>
-                            <p>Email : ilhankhondaker@gmail.com</p>
-                            <a href="tel:+8801680576091">Phone: +8801680576091</a>
-                            <p >Address: Banani Dahak</p>
+
 
 
                         </div>
