@@ -28,20 +28,22 @@ const Home = () => {
                             <h1 className='text-1xl font-bold mt-3'>⇒ React Router </h1>
                             <h1 > <a href="https://reactrouter.com/en/v6.3.0/getting-started/installation" target="_blank" rel="noopener noreferrer">React Router Install Docs </a> </h1> <br />
 
-
-
                         </div>
 
                     </div>
 
                 </div>
 
+
             </div>
 
-            <div className='bg-base-200 p-5' > <h1 className='text-4xl font-bold text-center m-3 text-info'>You can here see how to build this project </h1>
-                <iframe width="420" height="315"
-                    src="https://www.youtube.com/embed/tgbNymZ7vqY">
-                </iframe></div>
+            <div className='bg-base-200 p-5' >
+                <h1 className='text-4xl mb-3 font-bold text-center text-info'>You can here see how to build this project </h1>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/quLMh0WAH7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+
+
+
 
 
         </div>

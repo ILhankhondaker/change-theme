@@ -68,7 +68,6 @@ const Navbar = ({ children }) => {
                     </label>
                 </div>
             </div>
-
             {children}
         </div>
 
